@@ -1,16 +1,23 @@
-# ghost_app
+## About UFO AR
 
-A new Flutter project.
+UFO AR is an augmented reality app, that allows you to spot UFOS. 😉
 
-## Getting Started
+It was made using Unity and Flutter.
 
-This project is a starting point for a Flutter application.
+## Process
 
-A few resources to get you started if this is your first Flutter project:
+What's better as a base than an "official" UFO image from the Pentagon.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/50044971/155416721-e6163555-5acf-4c5f-8d78-dca2b2b7bfb2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sketch of the potential UFO model.
+
+![image](https://user-images.githubusercontent.com/50044971/155417339-6b8dd488-cd96-4183-a95f-181352e99f34.png)
+
+Realisation of the model with Blender.
+
+![image](https://user-images.githubusercontent.com/50044971/155417556-dc644ceb-89e3-4f78-a5e9-788b1a158105.png)
+
+![image](https://user-images.githubusercontent.com/50044971/155417569-9de3a1f5-4a38-4d77-a338-a187b9fd6d56.png)
+
+![image](https://user-images.githubusercontent.com/50044971/155417581-55f9bf67-96df-4739-af72-d1a3af1942fa.png)
