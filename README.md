@@ -21,3 +21,7 @@ Realisation of the model with Blender.
 ![image](https://user-images.githubusercontent.com/50044971/155417569-9de3a1f5-4a38-4d77-a338-a187b9fd6d56.png)
 
 ![image](https://user-images.githubusercontent.com/50044971/155417581-55f9bf67-96df-4739-af72-d1a3af1942fa.png)
+
+Added textures in Unity.
+
+![image](https://user-images.githubusercontent.com/50044971/155617684-ba2b2835-5321-4e2f-876a-af88f0e9293a.png)
